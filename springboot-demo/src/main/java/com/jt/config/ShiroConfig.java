@@ -1,5 +1,5 @@
 package com.jt.config;
-//加了注释
+//加了注释的
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 
